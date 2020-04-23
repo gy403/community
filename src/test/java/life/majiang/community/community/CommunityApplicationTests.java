@@ -1,12 +1,13 @@
 package life.majiang.community.community;
 
-import org.junit.jupiter.api.Test;
+
+
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class CommunityApplicationTests {
-
-    @Test
+@Test
     void contextLoads() {
     }
 
